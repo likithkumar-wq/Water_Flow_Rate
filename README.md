@@ -47,12 +47,18 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 - Configurable cost per liter
 - Billing cycle reset
 
+<img width="1600" height="900" alt="WhatsApp Image 2025-09-04 at 23 32 41_f9269e39" src="https://github.com/user-attachments/assets/a2d6283c-22cc-4284-834d-892fe237d82e" />
+
+
+
 
 ---
 
 ## 🌐 Simulation on Wokwi
 
 - Direct Link: [Wokwi Simulation Project](https://wokwi.com/projects/439189480588692481)
+- <img width="1847" height="626" alt="Screenshot 2025-09-03 204403" src="https://github.com/user-attachments/assets/a201433e-23ae-48b6-bfda-d429ca37406c" />
+
 
 **How to use:**
 1. Click the link and hit the green "Start" button.
@@ -74,6 +80,8 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 
 - **Serial Monitor/Bluetooth**:
 - 19.36 L/min | Total Vol: 19.39 L | Bill: INR 125.35
+<img width="804" height="433" alt="WhatsApp Image 2025-09-04 at 23 16 21_f2150e9b" src="https://github.com/user-attachments/assets/d1fe6d49-4cfd-4b7b-84e0-872e6673f66e" />
+
 - ## 📂 Folders
 
 - `/hardware/` — final tested code and wiring schematic
