@@ -57,7 +57,9 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 ## 🌐 Simulation on Wokwi
 
 - Direct Link: [Wokwi Simulation Project](https://wokwi.com/projects/439189480588692481)
-- <img width="1847" height="626" alt="Screenshot 2025-09-03 204403" src="https://github.com/user-attachments/assets/a201433e-23ae-48b6-bfda-d429ca37406c" />
+
+  
+  <img width="1847" height="626" alt="Screenshot 2025-09-03 204403" src="https://github.com/user-attachments/assets/a201433e-23ae-48b6-bfda-d429ca37406c" />
 
 
 **How to use:**
@@ -74,17 +76,20 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 
 - **OLED**:  
   - Time (14:06:45)
-  - Flow: 19.36 L/min
-  - Vol: 20.06 L
-  - Bill: INR 125.35
+  - Flow: 17.47 L/min
+  - Vol: 23.04 L
+  - Bill: INR 143.97
 
-- **Serial Monitor/Bluetooth**:
-- 19.36 L/min | Total Vol: 19.39 L | Bill: INR 125.35
+<img width="550" height="223" alt="image" src="https://github.com/user-attachments/assets/8b2a79a6-af55-447e-94bc-861a3981930b" />
+
+- **Serial Monitor/Bluetooth(For every 1 min)**:
+- 4.37 L/min | Total Vol: 23.29 L | Bill: INR 145.57
+
 <img width="804" height="433" alt="WhatsApp Image 2025-09-04 at 23 16 21_f2150e9b" src="https://github.com/user-attachments/assets/d1fe6d49-4cfd-4b7b-84e0-872e6673f66e" />
 
 - ## 📂 Folders
 
-- `/hardware/` — final tested code and wiring schematic
+- `/hardware/` — final tested code 
 - `/simulation/` — code for use in Wokwi (matches the provided project)
 
 ---
