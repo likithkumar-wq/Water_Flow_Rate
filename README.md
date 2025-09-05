@@ -49,6 +49,9 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 
 <img width="1600" height="900" alt="WhatsApp Image 2025-09-04 at 23 32 41_f9269e39" src="https://github.com/user-attachments/assets/a2d6283c-22cc-4284-834d-892fe237d82e" />
 
+**Circuit Diagram**
+
+<img width="1348" height="765" alt="image" src="https://github.com/user-attachments/assets/f3bbfe6a-aa31-4098-bd0f-54fc7e63ec82" />
 
 
 
