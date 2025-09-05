@@ -82,7 +82,7 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 
 <img width="550" height="223" alt="image" src="https://github.com/user-attachments/assets/8b2a79a6-af55-447e-94bc-861a3981930b" />
 
-- **Serial Monitor/Bluetooth(For every 1 min)**:
+- **Serial Monitor/Bluetooth(Displays the data for every 1 min)**:
 - 4.37 L/min | Total Vol: 23.29 L | Bill: INR 145.57
 
 <img width="804" height="433" alt="WhatsApp Image 2025-09-04 at 23 16 21_f2150e9b" src="https://github.com/user-attachments/assets/d1fe6d49-4cfd-4b7b-84e0-872e6673f66e" />
