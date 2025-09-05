@@ -39,7 +39,7 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 
 ## 🧑‍💻 Hardware Arduino Code
 
-[See full code above or in `/Hardware/Waterflow.ino` in this repo.], which supports:
+[See full code in `/Hardware/Waterflow.ino` in this repo.], which supports:
 - YF-S201 flow measurement (pin 2)
 - OLED output (A4/A5 for I2C)
 - DS3231 RTC time/date
