@@ -47,7 +47,7 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 - Configurable cost per liter
 - Billing cycle reset
 
-<img width="1600" height="900" alt="WhatsApp Image 2025-09-04 at 23 32 41_f9269e39" src="https://github.com/user-attachments/assets/a2d6283c-22cc-4284-834d-892fe237d82e" />
+![WhatsApp Image 2025-09-07 at 18 13 06_fa00a801](https://github.com/user-attachments/assets/7135c2c2-1d51-4eb6-9166-0ad27a45d63d)
 
 **Circuit Diagram**
 
@@ -78,17 +78,17 @@ You can try the logic out for yourself with the provided [Wokwi simulation](http
 ## 📊 Example Output
 
 - **OLED**:  
-  - Time (14:06:45)
+  - Time (17:49:14)
   - Flow: 17.47 L/min
-  - Vol: 23.04 L
-  - Bill: INR 143.97
+  - Vol: 23.66 L
+  - Bill: INR 147.90
 
-<img width="550" height="223" alt="image" src="https://github.com/user-attachments/assets/8b2a79a6-af55-447e-94bc-861a3981930b" />
+![WhatsApp Image 2025-09-07 at 18 13 06_8e4cbe58](https://github.com/user-attachments/assets/6f229d4f-e9db-43fa-8526-fd27c9e95669)
 
 - **Serial Monitor/Bluetooth(Displays the data for every 1 min)**:
 - 4.37 L/min | Total Vol: 23.29 L | Bill: INR 145.57
 
-<img width="804" height="433" alt="WhatsApp Image 2025-09-04 at 23 16 21_f2150e9b" src="https://github.com/user-attachments/assets/d1fe6d49-4cfd-4b7b-84e0-872e6673f66e" />
+<img width="1351" height="830" alt="image" src="https://github.com/user-attachments/assets/fcebd1c5-f710-44ce-995b-8d67dae88629" />
 
 - ## 📂 Folders
 
